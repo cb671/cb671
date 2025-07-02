@@ -2,25 +2,12 @@
 
 ## Welcome to my ReadME File!!!
 
-<!--
-**cb671/cb671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Photo of Cory Brown](IMG_9345.jpeg)
+<img src="IMG_9345.jpeg" alt="Photo of Cory Brown" width="300"/>
 
 
-## Abit about ME!
+
+## 😁 Abit about ME!
 
 Hi! I'm Cory Brown, Ive graduated at the University of Leicester with a Computer Science Degreee,I am passionate about building real-world tech solutions that make a difference. I enjoy tackling challenging projects, whether it's gamifying learning platforms, analyzing football refereeing decisions, or training AI models to detect wildfires from space.
 
