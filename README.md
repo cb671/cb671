@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Photo of Cory Brown](IMG_9345.jpeg)
+
