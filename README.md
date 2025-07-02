@@ -64,6 +64,11 @@ A social impact initiative promoting women’s football, culminating in a live p
 - **Databases:** MySQL, PostgreSQL
 - **Tools & Platforms:** Git, VS Code, Unity, Google Colab
 
+## 🏆 Achievements
+- 🎤 Top 5 worldwide Wembley Stadium for the Ryman Enterprise Challenge
+- 🏅 Headboy at Bexleyheath Academy — led school-wide initiatives
+- 🧠 Degree in Computer Science BsC
+
 
 ## 📫 Get in Touch
 - Email: [corymb33@gmail.com](mailto:corymb33@gmail.com)
