@@ -1,9 +1,11 @@
+<div style="text-align: center;">
+
 ## Hi there 👋 I'm Cory Brown 
 
 ## Welcome to my ReadME File!!!
 
 
-<img src="IMG_9345.jpeg" alt="Photo of Cory Brown" width="300"/>
+<img src="IMG_9345.jpeg" alt="Photo of Cory Brown" width="500"/>
 
 
 
@@ -17,7 +19,7 @@ My strengths lie in full-stack development, Project Management, and software eng
 
 🎓 Studying at La Fosse Academy, sharpening my skills in full-stack development and software engineering best practices
 
- 💻 Building personal projects to strengthen my knowledge of React, Node.js, and RESTful APIs
+💻 Building personal projects to strengthen my knowledge of React, Node.js, and RESTful APIs
 
 📚 Working towards becoming a well-rounded developer, with a strong foundation in both frontend and backend technologies
 
@@ -45,20 +47,22 @@ A social impact initiative promoting women’s football, culminating in a live p
 → Designed branding assets and delivered the final presentation.
 
 ## 💻 Tech Stack
-- **Languages:** JavaScript, Java, Python, C#, C++, SQL
-- **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Express, REST APIs
-- **Databases:** MySQL, PostgreSQL
-- **Tools & Platforms:** Git, VS Code, Unity, Google Colab
+**Languages:** JavaScript, Java, Python, C#, C++, SQL
+**Frontend:** React, HTML, CSS
+**Backend:** Node.js, Express, REST APIs
+**Databases:** MySQL, PostgreSQL
+**Tools & Platforms:** Git, VS Code, Unity, Google Colab
 
 ## 🏆 Achievements
-- 🎤 Top 5 worldwide Wembley Stadium for the Ryman Enterprise Challenge
-- 🏅 Headboy at Bexleyheath Academy — led school-wide initiatives
-- 🧠 Degree in Computer Science BsC
+🎤 Top 5 worldwide Wembley Stadium for the Ryman Enterprise Challenge
+🏅 Headboy at Bexleyheath Academy — led school-wide initiatives
+🧠 Degree in Computer Science BsC
 
 
 ## 📫 Get in Touch
-- Email: [corymb33@gmail.com](mailto:corymb33@gmail.com)
+Email: [corymb33@gmail.com](mailto:corymb33@gmail.com)
+
+</div>
 
 
 
